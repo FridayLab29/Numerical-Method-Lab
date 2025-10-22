@@ -39,6 +39,8 @@ To solve your own problems, simply:
 ## Textbook Reference
 **Numerical Methods for Engineers, 7th Edition** by Steven C. Chapra and Raymond P. Canale.
 
-** Please note: This code is intended for educational purposes. As it is part of a study project, some implementations may contain errors or are not fully optimized. Always verify the logic and results independently.
+## Please note: 
+
+This code is intended for educational purposes. As it is part of a study project, some implementations may contain errors or are not fully optimized. Always verify the logic and results independently.
 
 ## Thank you 🦕⭐
